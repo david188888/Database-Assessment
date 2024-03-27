@@ -1,0 +1,44 @@
+Average KDA, Death, Assist for each player on each champion with more than 10 games played
+  PlayerName ChampionName  AverageKDA  AverageDeath  AverageAssist  GamesPlayed
+0        Eve         Ahri     15.0000        1.0000         7.7273           11
+1        Tom        Annie     12.5455        4.8182         4.9091           11
+2      David       Aatrox      9.7273        2.4545         5.1818           11
+3      Alice       Draven      8.0000        4.9091         6.7273           11
+4    Charlie       Darius      3.3636        2.0000        15.0000           11
+
+-----------------------------------
+
+
+Most popular items for each champion in each role
+   ChampionName       ItemName     Role  ItemCount
+0        Darius  Health Potion  Support         17
+1        Draven    Mana Potion   Jungle         15
+2        Aatrox   Control Ward      Top         13
+3         Annie   Control Ward      Mid         13
+4          Ahri  Sweeping Lens      ADC         12
+5       Camille  Sweeping Lens      Mid         10
+6         Akali  Health Potion      ADC          9
+7          Ahri  Sweeping Lens      Top          6
+8          Ahri  Sweeping Lens   Jungle          5
+9         Annie   Control Ward      Top          4
+10      Camille  Sweeping Lens  Support          3
+11       Aatrox   Control Ward   Jungle          2
+12        Akali  Health Potion  Support          2
+13        Annie   Control Ward      ADC          2
+14     Aphelios    Mana Potion  Support          1
+15        Annie   Control Ward   Jungle          1
+-----------------------------------
+
+
+Most popular champion pairs
+  Champion1 Champion2  GamesPlayed
+0    Aatrox      Ahri           11
+1     Annie    Draven           11
+2    Aatrox     Annie           11
+3    Aatrox    Draven           11
+4      Ahri    Darius           11
+5   Camille    Darius           10
+6     Akali    Darius            9
+7      Ahri     Akali            9
+8     Annie    Darius            8
+9    Aatrox    Darius            7
